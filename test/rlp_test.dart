@@ -6,7 +6,7 @@ import 'package:convert/convert.dart';
 import 'package:ethereum_util/src/bytes.dart';
 import 'package:ethereum_util/src/rlp.dart' as Rlp;
 import 'package:path/path.dart' as path;
-import "package:pointycastle/pointycastle.dart";
+import "package:pointycastle-hcb/pointycastle.dart";
 import 'package:test/test.dart';
 
 dynamic castTestValue(dynamic testValue) {
